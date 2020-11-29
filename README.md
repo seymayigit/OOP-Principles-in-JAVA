@@ -17,4 +17,4 @@ Helps to increase security of an application or program as only important detail
 #### Difference between Abstract Class and Interface? When should we use which and why? 
 
 
-![abstractClassVSinterface]()
+![NEW](https://github.com/seymayigit/OOP-Principles-in-JAVA/blob/master/images/AbstractVsInterface.PNG)
