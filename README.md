@@ -18,3 +18,12 @@ Helps to increase security of an application or program as only important detail
 
 
 ![NEW](https://github.com/seymayigit/OOP-Principles-in-JAVA/blob/master/images/AbstractVsInterface.PNG)
+
+
+### 2. INHERITANCE (Reusability)
+
+Inheritance is when a subclass inherits the methods and properties of the (superClass) parent class.
+There is an **IS-A** relationship between subclass and superclass.
+**Extends** is the keyword used to inherit the properties of a class <br/>
+(related concepts are **super()** and **@overriding**)
+
