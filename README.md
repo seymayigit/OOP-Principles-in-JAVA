@@ -26,12 +26,17 @@ There is an **IS-A** relationship between subclass and superclass.
 **Extends** is the keyword used to inherit the properties of a class <br/>
 (related concepts are **super()** and **@overriding**)
 
-#### Advantages of Abstraction
+#### Advantages of Inheritance
 It is giving the facility of reuse the code.
 
-### 2. INHERITANCE (Data Hiding)
+### 3. ENCAPSULATION (Data Hiding)
 The encapsulation is that class protect its property from other class. 
-It does that through access modifiers. (**public**, **private**, **protected**, **default**)
+It does that through access modifier that is private. A class variable that is defined as private can only be accessed with the **getter and setter method**.
+
+#### Advantages of Encapsulation
+Prevents direct access to class variables. <br/>
+
+(**ACCESS MODIFIERS** : **public**, **private**, **protected**, **default**)
 
 ![AccessModifiers](https://github.com/seymayigit/OOP-Principles-in-JAVA/blob/master/images/accessModifiers.PNG) 
 
