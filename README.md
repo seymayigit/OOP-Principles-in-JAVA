@@ -31,7 +31,9 @@ It is giving the facility of reuse the code.
 
 ### 2. INHERITANCE (Data Hiding)
 The encapsulation is that class protect its property from other class. 
-It does that through access modifiers.
+It does that through access modifiers. (**public**, **private**, **protected**, **default**)
+
+![AccessModifiers](https://github.com/seymayigit/OOP-Principles-in-JAVA/blob/master/images/accessModifiers.PNG) 
 
 
 
