@@ -21,9 +21,18 @@ Helps to increase security of an application or program as only important detail
 
 
 ### 2. INHERITANCE (Reusability)
-
 Inheritance is when a subclass inherits the methods and properties of the (superClass) parent class.
 There is an **IS-A** relationship between subclass and superclass.
 **Extends** is the keyword used to inherit the properties of a class <br/>
 (related concepts are **super()** and **@overriding**)
+
+#### Advantages of Abstraction
+It is giving the facility of reuse the code.
+
+### 2. INHERITANCE (Data Hiding)
+The encapsulation is that class protect its property from other class. 
+It does that through access modifiers.
+
+
+
 
