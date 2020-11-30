@@ -31,7 +31,7 @@ It is giving the facility of reuse the code.
 
 ### 3. ENCAPSULATION (Data Hiding)
 The encapsulation is that class protect its property from other class. 
-It does that through access modifier that is private. A class variable that is defined as private can only be accessed with the **getter and setter method**.
+It does that through access modifier that is **private**. A class variable that is defined as private can only be accessed with the **getter and setter method**.
 
 #### Advantages of Encapsulation
 Prevents direct access to class variables. <br/>
@@ -39,6 +39,9 @@ Prevents direct access to class variables. <br/>
 (**ACCESS MODIFIERS** : **public**, **private**, **protected**, **default**)
 
 ![AccessModifiers](https://github.com/seymayigit/OOP-Principles-in-JAVA/blob/master/images/accessModifiers.PNG) 
+
+### 3. POLYMORPHISM (Object to take many forms)
+
 
 
 
